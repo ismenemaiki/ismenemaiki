@@ -1,7 +1,5 @@
 # Maiki Rodrigues Ismene
 [![Linkedin Badge](https://img.shields.io/badge/-maiki.ismene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiki-ismene-495737110/)](https://www.linkedin.com/in/maiki-ismene-495737110/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackexchange.com/users/18798762/maiki-rodrigues-ismene)]
-(https://stackexchange.com/users/18798762/maiki-rodrigues-ismene)
 [![Gmail Badge](https://img.shields.io/badge/-ismenemaiki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismenemaiki@gmail.com)](mailto:ismenemaiki@gmail.com)
 
 ## Olá 👋,
