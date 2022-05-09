@@ -3,10 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ismenemaiki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismenemaiki@gmail.com)](mailto:ismenemaiki@gmail.com)
 
 ## Olá 👋,
-Me chamo Maiki, resumidamente sou um amante de tecnologia com uma longa trajetória a trilhar nessa imensidão de variedades. 
-Falta tempo para conseguir fazer tudo o que desejo, mas entre elas estão:
-- Dominar minha área de atuação (almejo chegar no topo, não saber tudo, mas sim conhecer muito)
-- Tatuador (sou tatuador iniciante e tenho alguns trabalhos já feitos)
-- Voltar a desenhar para fazer um portfólio para meu site
-- Aprender a tocar violão
-- Aprender alguma linguagem de backend (depois de conhecer muito sobre frontend)
+Me chamo Maiki, resumidamente sou um apaixonado por programação front end com uma longa trajetória a trilhar nessa imensidão de variedades. 
+Falta tempo para conseguir fazer tudo o que desejo.
+Atualmente atuando com Angular 2+, com pretensões de buscar um mobile/ hibrido a curto prazo. 
+Trabalhando sempre em squad multidiciplinares, buscando melhorar sempre.
